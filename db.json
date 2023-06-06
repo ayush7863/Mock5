@@ -32,7 +32,8 @@
       "Price": 500000
     }
   ],
-  "freelancers":[],
-  "users":[],
-  "forum":[]
+  "freelancers": [],
+  "users": [],
+  "dashboard":[],
+  "forum": []
 }
